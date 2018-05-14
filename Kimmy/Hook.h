@@ -1,8 +1,5 @@
 /*************************************Keylogger Library*************************************/
 
-//independizar las funciones del keylogger para su utilizacion en distintos programas
-
-
 /*****************************************include*******************************************/
 #include "windows.h"
 #include <ctime> 
